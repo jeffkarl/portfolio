@@ -1,7 +1,7 @@
 # Business Data Analyst
 
 ## Education | Midwestern State University
-### Manufacturing Engineering Technology, B.S.
+- Manufacturing Engineering Technology, B.S.
 - Mathematics and Statistics, Minor
 
 ## Work Experience
