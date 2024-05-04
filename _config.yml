@@ -1,5 +1,6 @@
 title: Jeff Karl
 logo: /portfolio_picture.jpg
+border-radius: 50%
 description: Curious - Data-Driven - Pushes Limits
 #show_download: true
 theme: jekyll-theme-minimal
