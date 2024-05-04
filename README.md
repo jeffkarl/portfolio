@@ -120,5 +120,5 @@ Led a platoon of 45 infantrymen during Operation Iraqi Freedom III. Our mission 
 ### Thank You!
 Thank you for taking the time to review my background! I truly appreciate your review. In addition to these details, I am happily married with 4 kids, ages 12-20. We balance our time with community events and spending quality time at home. I enjoy outings with my family where we can do or see something interesting and eat delicious food. Feel free to reach out to me if you have any questions or opportunities. 
 
-## KEYWORDS
+## Keywords
 Process Engineering, Systems Integration, Infor Syteline 8 9 10 MT Cloud, JD Edwards, Epicor, TeamCenter, AutoCAD, Vertex O, Power BI, Tableau, Database, SQL, R, C#, C+, Stored Procedures, Intelligent Data Objects, IDOs, APIs, Microsoft Office Suite, Kaizen, Kanban, 5S, DMAIC, PMBOK-PMP, Scientific Method, ERP, MRP, APS, TPS, Lean Six Sigma, LSSGB, LSSBB, Vendor Management, Business Ethics, SOX, Strategic Planning, BPM, Business Process Mapping, QMS, Quality Management System, ISO Certification, Mentor, Large Project Management, Public Speaking, People and Customer Centric, Military, Contracts, Google Docs, Typing, Optimist
