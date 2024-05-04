@@ -1,11 +1,8 @@
 # Business Data Analyst
 
-#### Technical Skills: Data Analysis and Visualization, Statistical and Quantitative Analysis, Proficiency in Business Intelligence Tools, Communication and Presentation, Problem-Solving and Critical Thinking, Interpersonal and Negotiation, Adaptability and Continuous Learning, Understanding of Machine Learning and Artificial Intelligence
-
-## Education
+## Education | Midwestern State University
 ### Manufacturing Engineering Technology, B.S.
-    Mathematics and Statistics, Minor
-    Midwestern State University
+- Mathematics and Statistics, Minor
 
 ## Work Experience
 #### Rigaku, The Woodlands, TX — Business Data Analyst [OEM] (2022 - Present)
@@ -74,20 +71,6 @@
 
 - HVAC certified through Trane - installation and testing
 
-## Awards
-
-- Meritorious Promotion - x2 honor grad and board winner
-- RSUs - major projects performance award x2
-- 20% Bonus - increased for outstanding performance
-- Merit Pay Raises - increased x4 for excellent performance
-
-## Languages
-- English - Fluent
-- Spanish - Beginner
-
-## KEYWORDS
-Process Engineering, Systems Integration, Infor Syteline 8/9/10 MT Cloud, JDE, Epicor, TeamCenter, AutoCAD, Vertex O, Power BI, Tableau, Microsoft Office Suite, Kaizen, Kanban, 5S, DMAIC, PMBOK-PMP, Scientific Method, ERP, MRP, APS, TPS, Lean Six Sigma, LSSGB, LSSBB, Vendor Management,Business Ethics, SOX, Strategic Planning, BPM, Business Process Mapping, QMS, Quality Management System, ISO Certification, Mentor, Recruiting, Large Project Management, People and Customer Centric, Military, Contracts, Google Docs, Typing, Optimist
-
 ## Projects
 #### Infor Ai/ML Birst Dashboards — Nov 2022 - Present
 
@@ -113,5 +96,29 @@ During my time as a Project Manager for an OEM producing coiled tubing units, I 
 
 Led a platoon of 45 infantrymen during Operation Iraqi Freedom III. Our mission revolved around theater security where we ran operations to keep the roads free of hazards related to transporting materials on the main supply routes. My team managed 3 locations. Because of their continuous vigilance, we were very successful in our mission. We improved the locations and working relations with the local people. We helped to fund and improve infrastructure, mainly around improving the roads and water supply. I set up and led several interactions with local leaders and project managed many improvements. My involvement helped pave the way for stability and peace within the areas that we operated. Location building improvements included adding Hesco barriers, upgrading tents to wood and metal structures, adding pressurized water for showers, adding noise reducing devices and materials around our 1.5 KVA generators, and others. The surrounding villages benefited from us adding culverts to strategic thoroughfares, removing structures and debris from overpasses on the main supply routes, destroying 10s of thousands of live ordinances, delivering equipment to improve roads and canal waterways, and other helpful support to the local people.
 
+#### Technical Skills: 
+- Data Analysis and Visualization
+- Statistical and Quantitative Analysis
+- Proficiency in Business Intelligence Tools
+- Communication and Presentation
+- Problem-Solving and Critical Thinking
+- Interpersonal and Negotiation
+- Adaptability and Continuous Learning
+- Understanding of Machine Learning and Artificial Intelligence
+
+## Awards
+
+- Meritorious Promotion - x2 honor grad and board winner
+- RSUs - major projects performance award x2
+- 20% Bonus - increased for outstanding performance
+- Merit Pay Raises - increased x4 for excellent performance
+
+## Languages
+- English - Fluent
+- Spanish - Beginner
+
 ### Thank You!
 Thank you for taking the time to review my background! I truly appreciate your review. In addition to these details, I am happily married with 4 kids, ages 12-20. We balance our time with community events and spending quality time at home. I enjoy outings with my family where we can do or see something interesting and eat delicious food. Feel free to reach out to me if you have any questions or opportunities. 
+
+## KEYWORDS
+Process Engineering, Systems Integration, Infor Syteline 8/9/10 MT Cloud, JDE, Epicor, TeamCenter, AutoCAD, Vertex O, Power BI, Tableau, Microsoft Office Suite, Kaizen, Kanban, 5S, DMAIC, PMBOK-PMP, Scientific Method, ERP, MRP, APS, TPS, Lean Six Sigma, LSSGB, LSSBB, Vendor Management,Business Ethics, SOX, Strategic Planning, BPM, Business Process Mapping, QMS, Quality Management System, ISO Certification, Mentor, Recruiting, Large Project Management, People and Customer Centric, Military, Contracts, Google Docs, Typing, Optimist
