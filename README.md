@@ -1,4 +1,4 @@
-# [IT PROFESSIONAL]([Karl Resume 2025 July - IT Security.pdf](https://github.com/jeffkarl/portfolio/blob/main/Karl%20Resume%202025%20July%20-%20IT%20Security.pdf))
+# [IT PROFESSIONAL](https://github.com/jeffkarl/portfolio/blob/main/Karl%20Resume%202025%20July%20-%20IT%20Security.pdf)
 
 ## Education | Midwestern State University
 - Manufacturing Engineering Technology, B.S.
