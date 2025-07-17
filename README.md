@@ -1,4 +1,4 @@
-# [Business Data Analyst](https://github.com/jeffkarl/portfolio/blob/main/Resume%20Business%20Data%20Analyst%20Jeff%20Karl%202024.pdf)
+# [IT PROFESSIONAL](https://github.com/jeffkarl/portfolio/blob/main/Resume%20Business%20Data%20Analyst%20Jeff%20Karl%202024.pdf)
 
 ## Education | Midwestern State University
 - Manufacturing Engineering Technology, B.S.
