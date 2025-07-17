@@ -27,7 +27,7 @@
 
  - Conducted post-project evaluations to measure success against defined goals and identify areas for improvement
  
- #### Rigaku, The Woodlands, TX — Business Data Analyst [OEM] (2022 - 2025)
+#### Rigaku, The Woodlands, TX — Business Data Analyst [OEM] (2022 - 2025)
 
 - Infor OS Application Expert - Cloudesuite Industrial (CSI) Multi-Tenant Cloud, Syteline, Factory Track, IDM, Birst, Ai/ML
 
