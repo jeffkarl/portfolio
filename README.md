@@ -5,8 +5,7 @@
 - Mathematics and Statistics, Minor
 
 ## Work Experience
-
-####  Godlan, Montgomery, TX Remote - Customer Solutions Consultant (Present)
+#### Godlan, Montgomery, TX Remote - Customer Solutions Consultant (Present)
  
  - Provided expert advice and guidance to clients on various business challenges and opportunities
 
@@ -28,7 +27,7 @@
 
  - Conducted post-project evaluations to measure success against defined goals and identify areas for improvement
  
- ####  Rigaku, The Woodlands, TX — Business Data Analyst [OEM] (2022 - 2025)
+ #### Rigaku, The Woodlands, TX — Business Data Analyst [OEM] (2022 - 2025)
 
 - Infor OS Application Expert - Cloudesuite Industrial (CSI) Multi-Tenant Cloud, Syteline, Factory Track, IDM, Birst, Ai/ML
 
