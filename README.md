@@ -5,7 +5,30 @@
 - Mathematics and Statistics, Minor
 
 ## Work Experience
-#### Rigaku, The Woodlands, TX — Business Data Analyst [OEM] (2022 - Present)
+
+####  Godlan, Montgomery, TX Remote - Customer Solutions Consultant (Present)
+ 
+ - Provided expert advice and guidance to clients on various business challenges and opportunities
+
+ - Developed comprehensive strategies and action plans to address client objectives and drive business growth
+
+ - Collaborated with cross-functional teams to implement recommended solutions, ensuring seamless execution
+
+ - Delivered engaging presentations and reports to communicate findings, recommendations, and project updates to clients
+
+ - Managed multiple projects simultaneously, prioritizing tasks effectively to meet deadlines
+
+ - Identified cost-saving opportunities for clients through process optimization and efficiency improvements
+
+ - Led workshops and training sessions for client teams on best practices, tools, and methodologies
+
+ - Built strong relationships with key stakeholders at all levels of the organization to foster trust and collaboration
+
+ - Monitored project progress regularly, identifying risks or issues early on and implementing corrective actions as needed
+
+ - Conducted post-project evaluations to measure success against defined goals and identify areas for improvement
+ 
+ ####  Rigaku, The Woodlands, TX — Business Data Analyst [OEM] (2022 - 2025)
 
 - Infor OS Application Expert - Cloudesuite Industrial (CSI) Multi-Tenant Cloud, Syteline, Factory Track, IDM, Birst, Ai/ML
 
