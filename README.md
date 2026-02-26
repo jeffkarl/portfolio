@@ -5,7 +5,7 @@
 - Mathematics and Statistics, Minor
 
 ## Work Experience
-#### Godlan, Montgomery, TX Remote - Customer Solutions Consultant (Present)
+#### Godlan, Montgomery, TX Remote - Customer Solutions Consultant (2025)
  
  - Provided expert advice and guidance to clients on various business challenges and opportunities
 
@@ -94,7 +94,7 @@
 - HVAC certified through Trane - installation and testing
 
 ## Projects
-#### Infor Ai/ML Birst Dashboards — Nov 2022 - Present
+#### Infor Ai/ML Birst Dashboards — Nov 2022 - 2024
 
 Key stakeholder in the design, implementation, and integration of 3 Ai/ML projects developed through Infor. These projects forced us to utilize several Infor applications simultaneously, which gave us a better understanding of the capabilities and power of the modern Infor OS structure : Syteline to pull data from - Datalake to house the latest information - Quest Orchestration thru Coleman to crunch the numbers - Birst to present the data graphically to the end users as dashboards. Although the projects were not targeted well and may, in fact, not be utilized by those that were seeking these solutions, projects of this nature are very valuable for future, successful, implementations that provide answers to difficult to answer questions. These are cutting edge technologies just now being explored.
 
@@ -143,4 +143,4 @@ Led a platoon of 45 infantrymen during Operation Iraqi Freedom III. Our mission 
 Process Engineering, Systems Integration, Infor Syteline 8 9 10 MT Cloud, JD Edwards, Epicor, TeamCenter, AutoCAD, Vertex O, Power BI, Tableau, Database, SQL, R, C#, C+, Stored Procedures, Intelligent Data Objects, IDOs, APIs, Microsoft Office Suite, Kaizen, Kanban, 5S, DMAIC, PMBOK-PMP, Scientific Method, ERP, MRP, APS, TPS, Lean Six Sigma, LSSGB, LSSBB, Vendor Management, Business Ethics, SOX, Strategic Planning, BPM, Business Process Mapping, QMS, Quality Management System, ISO Certification, Mentor, Large Project Management, Public Speaking, People and Customer Centric, Military, Contracts, Google Docs, Typing, Optimist
 
 ### Thank You!
-Thank you for taking the time to review my background! I truly appreciate your review. In addition to these details, I am happily married with 4 kids, ages 12-20. We balance our time with community events and spending quality time at home. I enjoy outings with my family where we can do or see something interesting and eat delicious food. Feel free to reach out to me if you have any questions or opportunities. 
+Thank you for taking the time to review my background! I truly appreciate your review. In addition to these details, I am happily married with 4 kids, ages 13-22. We balance our time with community events and spending quality time at home. I enjoy outings with my family where we can do or see something interesting and eat delicious food. Feel free to reach out to me if you have any questions or opportunities. 
