@@ -1,4 +1,4 @@
-# [ERP SYSTEM DATA ANALYST AND ADMISTRATOR](https://github.com/jeffkarl/portfolio/blob/main/Karl%20Resume%202025%20July%20-%20IT%20Security.pdf)
+# [ERP SYSTEM DATA ANALYST AND ADMINISTRATOR](https://github.com/jeffkarl/portfolio/blob/main/Karl%20Resume%202025%20July%20-%20IT%20Security.pdf)
 
 ## Education | Midwestern State University
 - Manufacturing Engineering Technology, B.S.
